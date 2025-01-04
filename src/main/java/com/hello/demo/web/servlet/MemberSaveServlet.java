@@ -1,4 +1,4 @@
-package com.hello.demo.web;
+package com.hello.demo.web.servlet;
 
 import com.hello.demo.domain.member.Member;
 import com.hello.demo.domain.member.MemberRepository;
